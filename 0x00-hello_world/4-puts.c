@@ -1,10 +1,10 @@
 #include <stdio.h>
 /**
-*This will prints 'Programing is like building a multilingual puzzle
-*Return 0 if the code complies correctly, else throw error
+*main - This will prints 'Programing is like building a multilingual puzzle
+*return: This returns 0 if the code complies correctly, else throw error
 */
 int main(void)
 {
-	puts("\"Programming is like building a multilingual puzzle \n");
+	puts("\"Programming is like building a multilingual puzzle");
 	return (0);
 }
