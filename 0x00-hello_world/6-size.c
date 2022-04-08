@@ -1,12 +1,12 @@
 #include <stdio.h>
 /**
- * main- The prints the types of sizes in c
- * Return: This returns 0, if the code runs without errors
- **/
+ *main- This prints the sizes in c
+ *Return: This returns 0, if the code runs without errors
+**/
 int main(void)
 {
-	printf("Size of a char: %d byte(s)\n", sizeof(char)):
-	printf("Size of an int : %d byte(s)\n", sizeof(int));
+	printf("Size of a char: %d byte(s)\n", sizeof(char));
+	printf("Size of an int: %d byte(s)\n", sizeof(int));
 	printf("Size of a long int: %d byte(s)\n", sizeof(long int));
 	printf("Size of a long long int: %d byte(s)\n", sizeof(long long int));
 	printf("Size of a float: %d byte(s)\n", sizeof(float));
