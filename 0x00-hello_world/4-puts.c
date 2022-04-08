@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
 *main - This will prints 'Programing is like building a multilingual puzzle
-*return: This returns 0 if the code complies correctly, else throw error
+*Return: This returns 0 if the code complies correctly, else throw error
 */
 int main(void)
 {
