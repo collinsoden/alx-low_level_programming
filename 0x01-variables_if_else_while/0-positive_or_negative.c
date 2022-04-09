@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <stdlib.h>
 #include <time.h>
 /**
  * main- This will run the function to assign a number to the variable n
