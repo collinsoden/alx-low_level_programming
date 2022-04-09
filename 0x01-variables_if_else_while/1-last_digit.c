@@ -2,10 +2,10 @@
 #include <time.h>
 #include <stdio.h>
 /*
- * main - This will assign a number to the variable n
- * each time the code is executed
- * Return: Will return 0 is the code runs without errors
- **/
+ *main - This will assign a number to the variable n
+ *each time the code is executed
+ *Return: Will return 0 is the code runs without errors
+**/
 int main(void)
 {
 	int n;
