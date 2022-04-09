@@ -5,9 +5,9 @@
  **/
 int main(void)
 {
-	int num = 0;
+	int num = '0';
 
-	while (num < 10)
+	while (num < '10')
 	{
 		printf(num);
 		num++;
