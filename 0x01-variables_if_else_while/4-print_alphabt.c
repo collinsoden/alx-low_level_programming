@@ -5,7 +5,7 @@
  **/
 int main(void)
 {
-	char lett;
+	char lett = 'a';
 
 	while (lett <= 'z')
 	{
