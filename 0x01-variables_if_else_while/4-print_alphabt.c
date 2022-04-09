@@ -7,7 +7,7 @@ int main(void)
 {
 	char lett;
 
-	for (lett = 'a'; lett <= 'z' lett++)
+	for (lett = 'a'; lett <= 'z'; lett++)
 	{
 	if (lett != 'q' || lett != 'e')
 	{
