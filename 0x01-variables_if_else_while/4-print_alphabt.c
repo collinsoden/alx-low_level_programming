@@ -7,12 +7,13 @@ int main(void)
 {
 	char lett;
 
-	for (lett = 'a'; lett <= 'z'; lett++)
+	while(lett <= 'z';)
 	{
-	if (lett != 'e' || lett != 'q')
+	if (lett != 'e' && lett != 'q')
 	{
 		putchar(lett);
 	}
+		lett++;
 	}
 		putchar('\n');
 		return (0);
