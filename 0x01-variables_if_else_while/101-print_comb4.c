@@ -7,9 +7,9 @@ int main(void)
 {
 	int m, n, o;
 
-	for (m = 48; m <= 56; m++)
+	for (m = 48; m <= 58; m++)
 	{
-		for (n = 49; n <= 57; n++)
+		for (n = 49; n <= 58; n++)
 		{
 			for (o = 50; o <= 58; o++)
 			{
@@ -18,7 +18,7 @@ int main(void)
 					putchar(m);
 					putchar(n);
 					putchar(o);
-					if (m != 56 || o != 58)
+					if (m != 55 || n != 55)
 					{
 						putchar(',');
 						putchar(' ');
