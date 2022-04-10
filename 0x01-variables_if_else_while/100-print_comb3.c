@@ -12,13 +12,16 @@ int main(void)
 	{
 		for (n2 = 49; n2 < 57; n2++)
 		{
-			if (n > n2)
+			if (n2 > n)
 			{
 				putchar(n);
 				putchar(n2);
 			}
+		if (n != 56 || n2 != 57)
+		{
 			putchar(',');
 			putchar(' ');
+		}
 		}
 	}
 		putchar('\n');
