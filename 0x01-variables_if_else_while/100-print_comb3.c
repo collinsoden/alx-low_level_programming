@@ -14,10 +14,10 @@ int main(void)
 		{
 			if (n > n2)
 			{
-				putcar(n);
+				putchar(n);
 				putchar(n2);
 			}
-			purchar(',');
+			putchar(',');
 			putchar(' ');
 		}
 	}
