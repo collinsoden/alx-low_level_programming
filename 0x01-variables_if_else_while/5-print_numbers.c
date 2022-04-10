@@ -5,12 +5,11 @@
  **/
 int main(void)
 {
-	char num = '0';
+	int num;
 
-	while (num < '10')
+	for (num = 0; num < 10; num++)
 	{
 		printf(num);
-		num++;
 	}
 	printf('\n');
 	return (0);
