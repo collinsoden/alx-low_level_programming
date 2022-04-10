@@ -1,6 +1,7 @@
 #include <stdio.h>
 /**
- * main - this prints single numbers in base 16
+ * main - this will print all single numbers of base 16
+ * in lowercase
  * Return: Always (0) success
  **/
 int main(void)
@@ -16,5 +17,6 @@ int main(void)
 	{
 		putchar(ch);
 	}
+		putchar('\n');
 		return (0);
 }
