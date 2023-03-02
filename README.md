@@ -1,4 +1,6 @@
-This is an ALX project on C, 
+# ALX Software Engineering 
+
+This is a project on C, 
 The first C project I'll be working on.
 Betty Linters integrated.
 
